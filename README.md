@@ -1,1 +1,1 @@
-# Crack Your Internship
+# Crack Your Internship Challenge
