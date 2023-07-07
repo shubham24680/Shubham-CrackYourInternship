@@ -10,4 +10,5 @@ Follow:- Question (Answer)
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Medium)](/Arrays/Find%20All%20Duplicates%20in%20an%20Array(Medium).txt)\
 [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) [(Easy)](/Arrays/Chocolate%20Distribution%20Problem(Easy).txt)\
 [Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Medium)](/Arrays/Sort%20Colors(Medium).txt)\
-[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Easy)](/Arrays/Remove%20Duplicates%20from%20Sorted%20Array(Easy).txt)
+[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Easy)](/Arrays/Remove%20Duplicates%20from%20Sorted%20Array(Easy).txt)\
+[Two Sum](https://leetcode.com/problems/two-sum/description/) [(Easy)]()\
