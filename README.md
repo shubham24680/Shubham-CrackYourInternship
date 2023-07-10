@@ -14,4 +14,10 @@ Follow:- Question (Answer)
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Easy)](/Arrays/Remove%20Duplicates%20from%20Sorted%20Array(Easy).txt)\
 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Medium)](/Arrays/Find%20the%20Duplicate%20Number(Medium).txt)\
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Medium)](/Arrays/Find%20All%20Duplicates%20in%20an%20Array(Medium).txt)\
-[Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Medium)](/Arrays/Sort%20Colors(Medium).txt)
+[Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Medium)](/Arrays/Sort%20Colors(Medium).txt)/
+
+## Strings
+[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Easy)]()/
+[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Easy)]()/
+[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Easy)]()/
+[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [(Medium)]()/
