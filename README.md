@@ -1,6 +1,6 @@
 # Crack Your Internship Challenge
 ---
-
+All Questions are solved in Java\
 Follow:- Question (Answer)
 
 ## Arrays
