@@ -14,6 +14,7 @@ Follow:- Question (Answer)
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Easy)](/Arrays/Remove%20Duplicates%20from%20Sorted%20Array(Easy).txt)\
 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Medium)](/Arrays/Find%20the%20Duplicate%20Number(Medium).txt)\
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Medium)](/Arrays/Find%20All%20Duplicates%20in%20an%20Array(Medium).txt)\
+[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Medium)]()\
 [Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Medium)](/Arrays/Sort%20Colors(Medium).txt)
 
 ## Strings
