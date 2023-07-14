@@ -1,0 +1,29 @@
+class Solution {
+    public boolean isNumber(String s) {
+        int i;
+        boolean e = false, dot = false, num = false;
+        for(i = 0; i < s.length(); i++) {
+            if(s.charAt(i) == '+' || s.charAt(i) == '-') {
+                if((i + 1) >= s.length() || (i > 0 && s.charAt(i - 1) != 'e' && s.charAt(i - 1) != 'E'))
+                    return false;
+            }
+            else if(s.charAt(i) == 'e' || s.charAt(i) == 'E') {
+                if(i == 0 || !num || e || (i + 1) >= s.length())
+                    return false;
+
+                e = true;
+            }
+            else if(s.charAt(i) == '.') {
+                if(dot || e || (!num && (i + 1) >= s.length()))
+                    return false;
+
+                dot = true;
+            }
+            else if(s.charAt(i) >= '0' && s.charAt(i) <= '9')
+                num = true;
+            else return false;
+        }
+
+        return true;
+    }
+}
