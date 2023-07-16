@@ -26,3 +26,13 @@ Follow:- Question (Answer)
 [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Medium)](/Strings/Integer%20to%20Roman(Medium).txt)\
 [Valid Number](https://leetcode.com/problems/valid-number/description/) [(Hard)](/Strings/Valid%20Number(Hard).txt)\
 [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) [(Hard)](/Strings/Integer%20to%20English%20Words(Hard).txt)
+
+## Mathematical
+[Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)]()\
+[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)]()\
+[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)]()\
+[Happy Number](https://leetcode.com/problems/happy-number/description/) [(Easy)]()\
+[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [(Easy)]()\
+[Missing Number](https://leetcode.com/problems/missing-number/description/) [(Easy)]()\
+[Power of Two](https://leetcode.com/problems/power-of-two/description/) [(Easy)]()\
+[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)]()\
