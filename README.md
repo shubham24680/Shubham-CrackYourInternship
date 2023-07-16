@@ -25,14 +25,14 @@ Follow:- Question (Answer)
 [Search Pattern (Rabin-Karp Algorithm)](https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1) [(Medium)](/Strings/Search%20Pattern%20(Rabin-Karp%20Algorithm)(Medium).txt)\
 [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Medium)](/Strings/Integer%20to%20Roman(Medium).txt)\
 [Valid Number](https://leetcode.com/problems/valid-number/description/) [(Hard)](/Strings/Valid%20Number(Hard).txt)\
-[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) [(Hard)](/Strings/Integer%20to%20English%20Words(Hard).txt)
+[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) [(Hard)](/Strings/Integer%20to%20English%20Words(Hard).txt)\
 
 ## Mathematical
-[Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)]()\
-[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)]()\
-[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)]()\
-[Happy Number](https://leetcode.com/problems/happy-number/description/) [(Easy)]()\
-[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [(Easy)]()\
-[Missing Number](https://leetcode.com/problems/missing-number/description/) [(Easy)]()\
-[Power of Two](https://leetcode.com/problems/power-of-two/description/) [(Easy)]()\
-[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)]()\
+[Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)](/Mathematical/Add%20Binary(Easy).txt)\
+[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)](/Mathematical/Maximum%20Product%20of%20Three%20Numbers(Easy).txt)\
+[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)](/Mathematical/Excel%20Sheet%20Column%20Title(Easy).txt)\
+[Happy Number](https://leetcode.com/problems/happy-number/description/) [(Easy)](/Mathematical/Happy%20Number(Easy).txt)\
+[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [(Easy)](/Mathematical/Palindrome%20Number(Easy).txt)\
+[Missing Number](https://leetcode.com/problems/missing-number/description/) [(Easy)](/Mathematical/Missing%20Number(Easy).txt)\
+[Power of Two](https://leetcode.com/problems/power-of-two/description/) [(Easy)](/Mathematical/Power%20of%20Two(Easy).txt)\
+[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](/Mathematical/Reverse%20Integer(Medium).txt)
