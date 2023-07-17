@@ -28,11 +28,15 @@ Follow:- Question (Answer)
 8. [Valid Number](https://leetcode.com/problems/valid-number/description/) [(Hard)](/Strings/Valid%20Number(Hard).txt)
 
 ## Mathematical
-[Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)](/Mathematical/Add%20Binary(Easy).txt)\
-[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)](/Mathematical/Maximum%20Product%20of%20Three%20Numbers(Easy).txt)\
-[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)](/Mathematical/Excel%20Sheet%20Column%20Title(Easy).txt)\
-[Happy Number](https://leetcode.com/problems/happy-number/description/) [(Easy)](/Mathematical/Happy%20Number(Easy).txt)\
-[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [(Easy)](/Mathematical/Palindrome%20Number(Easy).txt)\
-[Missing Number](https://leetcode.com/problems/missing-number/description/) [(Easy)](/Mathematical/Missing%20Number(Easy).txt)\
-[Power of Two](https://leetcode.com/problems/power-of-two/description/) [(Easy)](/Mathematical/Power%20of%20Two(Easy).txt)\
-[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](/Mathematical/Reverse%20Integer(Medium).txt)
+1. [Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)](/Mathematical/Add%20Binary(Easy).txt)
+2. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)](/Mathematical/Maximum%20Product%20of%20Three%20Numbers(Easy).txt)
+3. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)](/Mathematical/Excel%20Sheet%20Column%20Title(Easy).txt)
+4. [Happy Number](https://leetcode.com/problems/happy-number/description/) [(Easy)](/Mathematical/Happy%20Number(Easy).txt)
+5. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [(Easy)](/Mathematical/Palindrome%20Number(Easy).txt)
+6. [Missing Number](https://leetcode.com/problems/missing-number/description/) [(Easy)](/Mathematical/Missing%20Number(Easy).txt)
+7. [Power of Two](https://leetcode.com/problems/power-of-two/description/) [(Easy)](/Mathematical/Power%20of%20Two(Easy).txt)
+8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](/Mathematical/Reverse%20Integer(Medium).txt)
+
+## Searching and Sorting
+[Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)]()\
+[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)]()\
