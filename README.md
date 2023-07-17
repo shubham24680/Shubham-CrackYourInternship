@@ -6,7 +6,7 @@ Follow:- Question (Answer)
 ## Arrays
 1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [(Easy)](/Arrays/Move%20Zeroes(Easy).txt)
 2. [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) [(Easy)](/Arrays/Chocolate%20Distribution%20Problem(Easy).txt)
-3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/move-zeroes/description/) [(Easy)](/Arrays/Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).txt)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [(Easy)](/Arrays/Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).txt)
 4. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) [(Medium)](/Arrays/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II(Medium).txt)
 5. [Two Sum](https://leetcode.com/problems/two-sum/description/) [(Easy)](/Arrays/Two%20Sum(Easy).txt)
 6. [3Sum](https://leetcode.com/problems/3sum/description/) [(Medium)](/Arrays/3Sum(Medium).txt)
