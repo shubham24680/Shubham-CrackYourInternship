@@ -38,5 +38,5 @@ Follow:- Question (Answer)
 8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](/Mathematical/Reverse%20Integer(Medium).txt)
 
 ## Searching and Sorting
-[Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)]()\
-[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)]()\
+[Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](/Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt)\
+[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](/Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt)
