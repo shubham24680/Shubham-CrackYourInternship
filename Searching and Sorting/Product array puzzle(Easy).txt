@@ -1,0 +1,33 @@
+
+
+//User function Template for Java
+
+
+class Solution 
+{ 
+	public static long[] productExceptSelf(int nums[], int n) 
+	{ 
+        // code here
+        long[] sol = new long[n];
+        Arrays.fill(sol, 0);
+        long pro = 1;
+        int zeros = 0;
+        for(int i = 0; i < n; i++) {
+            if(nums[i] != 0) {
+                pro *= nums[i];
+            }
+            else zeros++;
+        }
+        
+        if(zeros > 1)
+            return sol;
+            
+        for(int i = 0; i < n; i++) {
+            if(nums[i] != 0)
+                sol[i] = (zeros > 0) ? 0 : pro/nums[i];
+            else sol[i] = pro;
+        }
+        
+        return sol;
+	} 
+} 

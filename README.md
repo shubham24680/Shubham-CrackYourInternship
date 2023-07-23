@@ -27,6 +27,10 @@ Follow:- Question (Answer)
 7. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) [(Hard)](/Strings/Integer%20to%20English%20Words(Hard).txt)
 8. [Valid Number](https://leetcode.com/problems/valid-number/description/) [(Hard)](/Strings/Valid%20Number(Hard).txt)
 
+## Matrix
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Medium)](/Arrays/Spiral%20Matrix(Medium).txt)
+2. [Rotate Image](https://leetcode.com/problems/rotate-image/description/) [(Medium)]()
+
 ## Mathematical
 1. [Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)](/Mathematical/Add%20Binary(Easy).txt)
 2. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)](/Mathematical/Maximum%20Product%20of%20Three%20Numbers(Easy).txt)
@@ -39,4 +43,7 @@ Follow:- Question (Answer)
 
 ## Searching and Sorting
 [Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](/Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt)\
-[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](/Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt)
+[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](/Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt)\
+[Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)]()\
+[Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)]()\
+[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)]()\
