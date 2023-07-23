@@ -44,6 +44,6 @@ Follow:- Question (Answer)
 ## Searching and Sorting
 [Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](/Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt)\
 [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](/Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt)\
-[Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)]()\
-[Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)]()\
-[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)]()\
+[Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)](/Searching%20and%20Sorting/Find%20Pair%20Given%20Difference(Easy).txt)\
+[Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)](/Searching%20and%20Sorting/Radix%20Sort(Easy).txt)\
+[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt)\
