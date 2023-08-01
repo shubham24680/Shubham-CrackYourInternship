@@ -49,6 +49,6 @@ Follow:- Question (Answer)
 [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt)
 
 ## Linked List
-[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)]()\
-[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)]()\
-[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)]()\
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)](/Linked%20List/Middle%20of%20the%20Linked%20List(Easy).txt)\
+[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)](/Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer(Easy).txt)\
+[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)](/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List(Easy).txt)
