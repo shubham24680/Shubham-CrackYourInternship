@@ -46,4 +46,9 @@ Follow:- Question (Answer)
 [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](/Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt)\
 [Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)](/Searching%20and%20Sorting/Find%20Pair%20Given%20Difference(Easy).txt)\
 [Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)](/Searching%20and%20Sorting/Radix%20Sort(Easy).txt)\
-[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt)\
+[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt)
+
+## Linked List
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)]()\
+[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)]()\
+[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)]()\
