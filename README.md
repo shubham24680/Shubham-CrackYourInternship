@@ -52,8 +52,8 @@ Follow:- Question (Answer)
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)](/Linked%20List/Middle%20of%20the%20Linked%20List(Easy).txt)\
 [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)](/Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer(Easy).txt)\
 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)](/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List(Easy).txt)\
-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Easy)]()
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Easy)](/Linked%20List/Reverse%20Linked%20List(Easy).txt)
 
 ## Graph
-[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)]()\
-[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)]()\
+[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)](/Graph/BFS%20of%20graph(Easy).txt)\
+[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](/Graph/DFS%20of%20Graph(Easy).txt)
