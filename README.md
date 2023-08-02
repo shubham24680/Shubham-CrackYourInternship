@@ -66,4 +66,4 @@ Follow:- Question (Answer)
 
 [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)](</Graph/BFS%20of%20graph(Easy).txt>)\
 [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](</Graph/DFS%20of%20Graph(Easy).txt>)\
-[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)]()\
+[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
