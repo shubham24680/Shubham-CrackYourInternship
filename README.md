@@ -70,6 +70,8 @@ Follow:- Question (Answer)
 [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](</Graph/DFS%20of%20Graph(Easy).txt>)\
 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
 
-## Stack and Queue
-[Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)]()\
-[Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)]()\
+## Queue
+[Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)]()
+
+## Stack
+[Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)]()
