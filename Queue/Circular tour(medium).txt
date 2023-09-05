@@ -1,0 +1,28 @@
+
+
+// In java function tour() takes two arguments array of petrol
+// and array of distance
+
+class Solution
+{
+    //Function to find starting point where the truck can start to get through
+    //the complete circle without exhausting its petrol in between.
+    int tour(int petrol[], int distance[])
+    {
+        // Your code here
+        int i, dist = 0, fuel = 0, index = -1, n = petrol.length;
+        for(i = 0; i < n; i++) {
+            if((petrol[i] + fuel) >= distance[i]) {
+                index = (index == -1) ? i : index;
+                fuel += (petrol[i] - distance[i]);
+            }
+            else {
+                dist += (distance[i] - petrol[i] - fuel);
+                fuel = 0;
+                index = -1;
+            }
+        }
+        
+        return (fuel >= dist) ? index : -1;
+    }
+}

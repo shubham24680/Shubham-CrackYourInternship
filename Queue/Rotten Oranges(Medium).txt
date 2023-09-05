@@ -1,0 +1,50 @@
+
+
+
+class Position {
+    int x, y;
+    Position(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+}
+class Solution
+{
+    //Function to find minimum time required to rot all oranges. 
+    public int orangesRotting(int[][] grid)
+    {
+        // Code here
+        Queue<Position> box = new LinkedList<>();
+        int i, j, oranges = 0, n = grid.length, m = grid[0].length;
+        for(i = 0; i < n; i++) {
+            for(j = 0; j < m; j++) {
+                if(grid[i][j] > 0)
+                    oranges++;
+                if(grid[i][j] == 2)
+                    box.offer(new Position(i, j));
+            }
+        }
+        
+        int k, days = -1;
+        int[][] axis = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        while(!box.isEmpty()) {
+            days++;
+            int size = box.size();
+            for(k = 0; k < size; k++) {
+                oranges--;
+                Position rotten_orange = box.poll();
+                for(int u = 0; u < 4; u++) {
+                    i = rotten_orange.x + axis[u][0];
+                    j = rotten_orange.y + axis[u][1];
+                    
+                    if(!(i < 0 || i >= n || j < 0 || j >= m || grid[i][j] != 1)) {
+                        grid[i][j] = 2;
+                        box.offer(new Position(i, j));
+                    }
+                }
+            }
+        }
+        
+        return (oranges == 0) ? Math.max(0, days) : -1;
+    }
+}

@@ -71,7 +71,9 @@ Follow:- Question (Answer)
 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
 
 ## Queue
-[Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)](/Queue/Queue%20using%20two%20Stacks(Easy).txt)
+[Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)](/Queue/Queue%20using%20two%20Stacks(Easy).txt)\
+[Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) [(Medium)]()\
+[Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) [(Medium)]()
 
 ## Stack
 [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)](/Stack/Stack%20using%20two%20queues(Easy).txt)
