@@ -72,8 +72,8 @@ Follow:- Question (Answer)
 
 ## Queue
 [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)](/Queue/Queue%20using%20two%20Stacks(Easy).txt)\
-[Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) [(Medium)]()\
-[Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) [(Medium)]()
+[Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) [(Medium)](/Queue/Rotten%20Oranges(Medium).txt)\
+[Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) [(Medium)](/Queue/Circular%20tour(medium).txt)
 
 ## Stack
 [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)](/Stack/Stack%20using%20two%20queues(Easy).txt)
