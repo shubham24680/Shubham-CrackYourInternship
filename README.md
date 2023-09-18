@@ -33,9 +33,9 @@ Follow:- Question (Answer)
 
 ## Matrix
 
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Medium)](</Arrays/Spiral%20Matrix(Medium).txt>)
-2. [Rotate Image](https://leetcode.com/problems/rotate-image/description/) [(Medium)]()
-3. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) [(Medium)]()
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Medium)](/Matrix/Spiral%20Matrix(Medium).txt)
+2. [Rotate Image](https://leetcode.com/problems/rotate-image/description/) [(Medium)](/Matrix/Rotate%20Image(Medium).txt)
+3. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) [(Medium)](/Matrix/Find%20the%20number%20of%20islands(Medium).txt)
 
 ## Mathematical
 
