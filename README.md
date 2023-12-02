@@ -6,7 +6,6 @@ All Questions are solved in Java\
 Follow:- Question (Answer)
 
 ## Arrays
-
 1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [(Easy)](</Arrays/Move%20Zeroes(Easy).txt>)
 2. [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) [(Easy)](</Arrays/Chocolate%20Distribution%20Problem(Easy).txt>)
 3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [(Easy)](</Arrays/Best%20Time%20to%20Buy%20and%20Sell%20Stock(Easy).txt>)
@@ -21,7 +20,6 @@ Follow:- Question (Answer)
 12. [Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Medium)](</Arrays/Sort%20Colors(Medium).txt>)
 
 ## Strings
-
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Easy)](</Strings/Valid%20Parentheses(Easy).txt>)
 2. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Easy)](</Strings/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String(Easy).txt>)
 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Easy)](</Strings/Longest%20Common%20Prefix(Easy).txt>)
@@ -32,14 +30,12 @@ Follow:- Question (Answer)
 8. [Valid Number](https://leetcode.com/problems/valid-number/description/) [(Hard)](</Strings/Valid%20Number(Hard).txt>)
 
 ## Matrix
-
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Medium)](/Matrix/Spiral%20Matrix(Medium).txt)
 2. [Rotate Image](https://leetcode.com/problems/rotate-image/description/) [(Medium)](/Matrix/Rotate%20Image(Medium).txt)
 3. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) [(Medium)](/Matrix/Find%20the%20number%20of%20islands(Medium).txt)
 4. [Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) [(Medium)]()
 
 ## Mathematical
-
 1. [Add Binary](https://leetcode.com/problems/add-binary/description/) [(Easy)](</Mathematical/Add%20Binary(Easy).txt>)
 2. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) [(Easy)](</Mathematical/Maximum%20Product%20of%20Three%20Numbers(Easy).txt>)
 3. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) [(Easy)](</Mathematical/Excel%20Sheet%20Column%20Title(Easy).txt>)
@@ -50,7 +46,6 @@ Follow:- Question (Answer)
 8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](</Mathematical/Reverse%20Integer(Medium).txt>)
 
 ## Searching and Sorting
-
 [Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](</Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt>)\
 [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](</Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt>)\
 [Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)](</Searching%20and%20Sorting/Find%20Pair%20Given%20Difference(Easy).txt>)\
@@ -58,7 +53,6 @@ Follow:- Question (Answer)
 [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](<Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt>)
 
 ## Linked List
-
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)](</Linked%20List/Middle%20of%20the%20Linked%20List(Easy).txt>)\
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [(Easy)]()\
 [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)](</Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer(Easy).txt>)\
@@ -67,7 +61,6 @@ Follow:- Question (Answer)
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Easy)](</Linked%20List/Reverse%20Linked%20List(Easy).txt>)
 
 ## Graph
-
 [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)](</Graph/BFS%20of%20graph(Easy).txt>)\
 [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](</Graph/DFS%20of%20Graph(Easy).txt>)\
 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
@@ -79,3 +72,8 @@ Follow:- Question (Answer)
 
 ## Stack
 [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)](/Stack/Stack%20using%20two%20queues(Easy).txt)
+
+## Tree
+[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [(Medium)]()
+[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Medium)]()
+[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Medium)]()
