@@ -3,7 +3,7 @@
 ---
 
 All Questions are solved in Java\
-Follow:- Question (Answer)
+Follow:- Question (Solution)
 
 ## Arrays
 1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [(Easy)](</Arrays/Move%20Zeroes(Easy).txt>)
@@ -75,5 +75,5 @@ Follow:- Question (Answer)
 
 ## Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [(Medium)](/Tree/Binary%20Search%20Tree%20Iterator.txt)
-2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Medium)](/Tree/Unique%20Binary%20Search%20Trees.txt)
-3. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Medium)](/Tree/Validate%20Binary%20Search%20Tree.txt)
+2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Medium)](/Tree/Validate%20Binary%20Search%20Tree.txt)
+3. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Medium)](/Tree/Unique%20Binary%20Search%20Trees.txt)
