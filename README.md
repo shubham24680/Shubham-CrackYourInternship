@@ -46,34 +46,34 @@ Follow:- Question (Answer)
 8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [(Medium)](</Mathematical/Reverse%20Integer(Medium).txt>)
 
 ## Searching and Sorting
-[Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](</Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt>)\
-[Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](</Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt>)\
-[Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)](</Searching%20and%20Sorting/Find%20Pair%20Given%20Difference(Easy).txt>)\
-[Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)](</Searching%20and%20Sorting/Radix%20Sort(Easy).txt>)\
-[Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](<Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt>)
+1. [Permutations in array](https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1) [(Basic)](</Searching%20and%20Sorting/Permutations%20in%20array(Basic).txt>)
+2. [Floor in a Sorted Array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) [(Easy)](</Searching%20and%20Sorting/Floor%20in%20a%20Sorted%20Array(Easy).txt>)
+3. [Find pair given difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1) [(Easy)](</Searching%20and%20Sorting/Find%20Pair%20Given%20Difference(Easy).txt>)
+4. [Radix Sort](https://practice.geeksforgeeks.org/problems/radix-sort/1) [(Easy)](</Searching%20and%20Sorting/Radix%20Sort(Easy).txt>)
+5. [Product array puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1) [(Easy)](<Searching%20and%20Sorting/Product%20array%20puzzle(Easy).txt>)
 
 ## Linked List
-[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)](</Linked%20List/Middle%20of%20the%20Linked%20List(Easy).txt>)\
-[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [(Easy)]()\
-[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)](</Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer(Easy).txt>)\
-[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)](</Linked%20List/Remove%20Duplicates%20from%20Sorted%20List(Easy).txt>)\
-[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Medium)](/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II(Medium).txt)\
-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Easy)](</Linked%20List/Reverse%20Linked%20List(Easy).txt>)
+1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Easy)](</Linked%20List/Middle%20of%20the%20Linked%20List(Easy).txt>)
+2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [(Easy)]()
+3. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Easy)](</Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer(Easy).txt>)
+4. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Easy)](</Linked%20List/Remove%20Duplicates%20from%20Sorted%20List(Easy).txt>)
+5. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Medium)](/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II(Medium).txt)
+6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Easy)](</Linked%20List/Reverse%20Linked%20List(Easy).txt>)
 
 ## Graph
-[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)](</Graph/BFS%20of%20graph(Easy).txt>)\
-[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](</Graph/DFS%20of%20Graph(Easy).txt>)\
-[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
+1. [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Easy)](</Graph/BFS%20of%20graph(Easy).txt>)
+2. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Easy)](</Graph/DFS%20of%20Graph(Easy).txt>)
+3. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Medium)](/Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List(Medium).txt)
 
 ## Queue
-[Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)](/Queue/Queue%20using%20two%20Stacks(Easy).txt)\
-[Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) [(Medium)](/Queue/Rotten%20Oranges(Medium).txt)\
-[Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) [(Medium)](/Queue/Circular%20tour(medium).txt)
+1. [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&sortBy=submissions) [(Easy)](/Queue/Queue%20using%20two%20Stacks(Easy).txt)\
+2. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) [(Medium)](/Queue/Rotten%20Oranges(Medium).txt)
+3. [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) [(Medium)](/Queue/Circular%20tour(medium).txt)
 
 ## Stack
-[Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)](/Stack/Stack%20using%20two%20queues(Easy).txt)
+1. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&sortBy=submissions) [(Easy)](/Stack/Stack%20using%20two%20queues(Easy).txt)
 
 ## Tree
-[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [(Medium)]()
-[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Medium)]()
-[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Medium)]()
+1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [(Medium)](/Tree/Binary%20Search%20Tree%20Iterator.txt)
+2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Medium)](/Tree/Unique%20Binary%20Search%20Trees.txt)
+3. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Medium)](/Tree/Validate%20Binary%20Search%20Tree.txt)
