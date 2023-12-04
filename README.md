@@ -21,7 +21,7 @@ Follow:- Question (Solution)
 
 ## Strings
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Easy)](</Strings/Valid%20Parentheses(Easy).txt>)
-2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Easy)]()
+2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Easy)](/Strings/Valid%20Palindrome%20II(Easy).txt)
 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Easy)](</Strings/Longest%20Common%20Prefix(Easy).txt>)
 4. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Easy)](</Strings/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String(Easy).txt>)
 5. [Search Pattern (Rabin-Karp Algorithm)](https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1) [(Medium)](</Strings/Search%20Pattern%20(Rabin-Karp%20Algorithm)(Medium).txt>)
