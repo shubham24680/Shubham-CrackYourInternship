@@ -21,7 +21,7 @@ Follow:- Question (Solution)
 
 ## Strings
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Easy)](</Strings/Valid%20Parentheses(Easy).txt>)\
-[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) [(Medium)]()\
+[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) [(Medium)](Strings/Generate%20Parentheses(Medium).txt)\
 [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Easy)](/Strings/Valid%20Palindrome%20II(Easy).txt)\
 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Easy)](</Strings/Longest%20Common%20Prefix(Easy).txt>)\
 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Easy)](</Strings/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String(Easy).txt>)\
